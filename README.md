@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shamim Ahmed (@shamim-io)
 - ✨ I'm a Software Developer with expertise in Full-Stack Development, AI
-- 👀 I’m interested in MERN stack, Ruby on Rails, Artificial Intelligence, Machine Learning.
-- 🌱 I’m currently learning Docker, Kubernetes.
+- 👀 I’m interested in MERN stack, Blockchain, Machine Learning.
+- 🌱 I’m also skilled in Devops technologies like Docker, Kubernetes, AWS.
 
 <!---
 shamim-io/shamim-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
