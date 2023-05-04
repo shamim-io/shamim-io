@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shamim Ahmed (@shamim-io)
 - ✨ I'm a Software Developer with expertise in Full-Stack Development, AI
-- 👀 I’m interested in MERN stack, Blockchain, Machine Learning.
+- 👀 I’m interested in MERN stack, Machine Learning.
 - 🌱 I’m also skilled in Devops technologies like Docker, Kubernetes, AWS.
 
 <!---
