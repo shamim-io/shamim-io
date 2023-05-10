@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Shamim Ahmed (@shamim-io)
-- ✨ I'm a Software Developer with expertise in Full-Stack Development, AI
-- 👀 I’m interested in MERN stack, Machine Learning.
-- 🌱 I’m also skilled in Devops technologies like Docker, Kubernetes, AWS.
-
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Shamim Ahmed 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/your_username.svg?style=social)](https://github.com/shamim-io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shamimio/)](https://www.linkedin.com/in/shamimio/)
