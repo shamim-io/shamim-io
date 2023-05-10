@@ -3,49 +3,44 @@
 - 👀 I’m interested in MERN stack, Machine Learning.
 - 🌱 I’m also skilled in Devops technologies like Docker, Kubernetes, AWS.
 
-# Hello, I'm Shamim Ahmed (@shamim-io) 👋
+# Hello, I'm [Your Name] 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/your_username.svg?style=social)](https://github.com/shamim-io)
-[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository.svg?style=social)](https://github.com/your_username/your_repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your_username/your_repository.svg?style=social)](https://github.com/your_username/your_repository/network/members)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shamimio/)](https://www.linkedin.com/in/shamimio/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@shamimio)](https://medium.com/@shamimio)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/shamimio)](https://dev.to/shamimio)
 
 ## About Me
 
-I'm a [Your Profession/Title] with [Your Years of Experience] of experience in [Your Industry/Field]. Currently, I work at [Your Company/Institution] where I [Your Role/Responsibilities]. In my free time, I love [Your Hobbies/Interests].
+I'm a Software Developer with 3+ years of experience Fullstack Development with good knowledge of Devops. Currently, I work at McKinsey & Co. In my free time, I love learn about new technologies and explore interesting open source projects.
 
 ## Skills
 
-- [Skill #1]
-- [Skill #2]
-- [Skill #3]
-- [Skill #4]
-- [Skill #5]
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-- [Project #1: Name, Description, Link to Repo/Live Demo]
-- [Project #2: Name, Description, Link to Repo/Live Demo]
-- [Project #3: Name, Description, Link to Repo/Live Demo]
+- MERN (MongoDB, Express.Js, React.Js, Node.Js) Stack
+- Typescript
+- Javascript
+- Python
+- Docker
+- Kubernetes
+- AWS Cloud
 
 ## Blog Posts
 
-I also write about [Your Topics of Interest] on my personal blog. Here are some of my latest posts:
+I also write about Software Development on my personal blog. Here are some of my latest posts:
 
-- [Post #1: Title, Description, Link]
-- [Post #2: Title, Description, Link]
-- [Post #3: Title, Description, Link]
+- [Post #1: Why Next.js 13 is a Game-Changer, https://medium.com/bitsrc/why-next-js-13-is-a-game-changer-2167658d9de2]
+- [Post #2: Master Next.js Router in Just a Few Minutes: A Beginner’s Guide to “next/router”, https://medium.com/gitconnected/master-next-js-router-in-just-a-few-minutes-a-beginners-guide-to-next-router-ad49863d8450]
+- [Post #3: 5 Must-Have Authentication Methods for Your SaaS Product in 2023, https://medium.com/bitsrc/5-must-have-authentication-methods-for-your-saas-product-in-2023-2797c9f1b736]
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-io&show_icons=true&theme=radical)
 
 ## Connect With Me
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website/Blog](Your Website/Blog Link)
+- [LinkedIn](https://www.linkedin.com/in/shamimio/)
+- [Twitter](https://twitter.com/shamim_io)
+- [Medium](https://medium.com/@shamimio)
+- [Dev.to](https://dev.to/shamimio)
 
 Feel free to reach out and connect with me! 😄
-
