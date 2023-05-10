@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Software Developer with 3+ years of experience Fullstack Development with good knowledge of Devops. Currently, I work at McKinsey & Co. In my free time, I love learn about new technologies and explore interesting open source projects.
+I'm a Software Developer with a passion for crafting elegant solutions that make a difference. With over 3 years of experience in Fullstack Development and a solid foundation in DevOps, I'm always looking to push the limits of what's possible. In my free time, I love learning about new technology trends and contributing to exciting open source projects. Let's connect and build something amazing!
 
 ## Skills
 
