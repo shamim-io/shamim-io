@@ -1,6 +1,5 @@
 # Hello, I'm Shamim Ahmed 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/shamim-io.svg?style=social)](https://github.com/shamim-io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shamimio/)](https://www.linkedin.com/in/shamimio/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@shamimio)](https://medium.com/@shamimio)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/shamimio)](https://dev.to/shamimio)
