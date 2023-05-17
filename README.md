@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Software Developer with a passion for crafting elegant solutions that make a difference. With over 3 years of experience in Fullstack Development and a solid foundation in DevOps, I'm always looking to push the limits of what's possible. In my free time, I love learning about new technology trends and contributing to exciting open source projects. Let's connect and build something amazing!
+I'm a Software Developer with a passion for crafting elegant solutions that make a difference. With over 3 years of experience in Fullstack Development and a solid foundation in DevOps, I'm always looking to push the limits of what's possible.
 
 ## Skills
 
@@ -27,6 +27,9 @@ I also write about Software Development on my personal blog. Here are some of my
 - [Post #3: 5 Must-Have Authentication Methods for Your SaaS Product in 2023, https://medium.com/bitsrc/5-must-have-authentication-methods-for-your-saas-product-in-2023-2797c9f1b736]
 
 ## GitHub Stats
+
+| <a href="https://github.com/shamim-io/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=shamim-io&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Balhara's github stats" /></a> | <a href="https://github.com/shamim-io/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shamim-io&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-io&show_icons=true&theme=radical)
 
