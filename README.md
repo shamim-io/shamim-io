@@ -42,4 +42,4 @@ I also write about Software Development on my personal blog. Here are some of my
 - [Medium](https://medium.com/@shamimio)
 - [Dev.to](https://dev.to/shamimio)
 
-Feel free to reach out and connect with me! 😄
+Feel free to reach out and connect with me! 🚀
