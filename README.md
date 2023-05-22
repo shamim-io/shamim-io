@@ -11,7 +11,7 @@ I'm a Software Developer with a passion for crafting elegant solutions that make
 ## Skills
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?logo=javascript&logoColor=white&labelColor=2F2F2F&color=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=2F2F2F&color=3178C6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6&color=2F2F2F)
 - Javascript
 - Python
 - Docker
