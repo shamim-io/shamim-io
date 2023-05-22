@@ -31,7 +31,7 @@ I also write about Software Development on my personal blog. Here are some of my
 <a href="https://github.com/shamim-io/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=shamim-io&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Shamim Ahmed's github stats" /></a> 
 
 <!-- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-io&layout=compact)](https://github.com/shamim-io/github-readme-stats) | -->
-<!-- | ------------- | ------------- | -->
+<!-- | ------------- | ------------ | -->
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-io&show_icons=true&theme=radical) --
 
