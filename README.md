@@ -10,7 +10,7 @@ I'm a Software Developer with a passion for crafting elegant solutions that make
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,nextjs,sql,python,mongodb,firebase,docker,aws" title="JS, TS, HTML, CSS, Express, Node.js, React, Next.js, SQL, Python, MongoDB, Firebase, Docker, AWS" alt="JS, TS, HTML, CSS, Express, Node.js, React, Next.js, SQL, Python, MongoDB, Firebase, Docker, AWS" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,nextjs,mysql,python,mongodb,firebase,docker,aws" title="JS, TS, HTML, CSS, Express, Node.js, React, Next.js, MySQL, Python, MongoDB, Firebase, Docker, AWS" alt="JS, TS, HTML, CSS, Express, Node.js, React, Next.js, MySQL, Python, MongoDB, Firebase, Docker, AWS" /> <br /><br />
 
 ## I am currently learning
 
