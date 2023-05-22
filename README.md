@@ -10,7 +10,7 @@ I'm a Software Developer with a passion for crafting elegant solutions that make
 
 ## Skills
 
-- MERN (MongoDB, Express.Js, React.Js, Node.Js) Stack
+![MERN Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?logo=javascript&logoColor=white&labelColor=2F2F2F&color=61DAFB)
 - Typescript
 - Javascript
 - Python
