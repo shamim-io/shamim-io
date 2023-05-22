@@ -10,11 +10,11 @@ I'm a Software Developer with a passion for crafting elegant solutions that make
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,express,nodejs,react,mongodb,firebase,nextjs,docker,aws" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,nextjs,python,mongodb,firebase,docker,aws" title="JS, TS, HTML, CSS, Express, Node.js, React, Next.js, Python, MongoDB, Firebase, Docker, AWS" alt="JS, TS, HTML, CSS, Express, Node.js, React, Next.js, Python, MongoDB, Firebase, Docker, AWS" /> <br /><br />
 
 ## I am currently learning
 
-<img src="https://skillicons.dev/icons?i=kubernetes,rust" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=kubernetes,rust" title="Kubernetes, Rust" alt="Kubernetes, Rust" /> <br /><br />
 
 ## Blog Posts
 
@@ -38,6 +38,6 @@ I also write about Software Development on my personal blog. Here are some of my
 - [LinkedIn](https://www.linkedin.com/in/shamimio/)
 - [Twitter](https://twitter.com/shamim_io)
 - [Medium](https://medium.com/@shamimio)
-- [Dev.to](https://dev.to/shamimio)
+<!-- - [Dev.to](https://dev.to/shamimio) -->
 
 Feel free to reach out and connect with me! 🚀
