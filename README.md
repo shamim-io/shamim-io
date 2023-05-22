@@ -10,13 +10,11 @@ I'm a Software Developer with a passion for crafting elegant solutions that make
 
 ## Skills
 
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?logo=javascript&logoColor=white&labelColor=2F2F2F&color=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6&color=2F2F2F)
-- Javascript
-- Python
-- Docker
-- Kubernetes
-- AWS Cloud
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,express,nodejs,react,mongodb,firebase,nextjs,docker,aws" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
+
+## I am currently learning
+
+<img src="https://skillicons.dev/icons?i=kubernetes,rust" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
 
 ## Blog Posts
 
@@ -33,7 +31,7 @@ I also write about Software Development on my personal blog. Here are some of my
 <!-- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-io&layout=compact)](https://github.com/shamim-io/github-readme-stats) | -->
 <!-- | ------------- | ------------ | -->
 
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-io&show_icons=true&theme=radical) --
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shamim-io&show_icons=true&theme=radical) -->
 
 ## Connect With Me
 
